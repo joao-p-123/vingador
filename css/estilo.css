@@ -1,0 +1,81 @@
+html{
+            
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+body{
+    
+    background-image: url(../img/vingadores.png);
+    background-size:cover;
+    position :static;
+    
+    }
+
+nav{
+    background:#1A5287;
+    color:#FFF;
+    
+}
+
+nav ul{
+    
+    list-style-type: none;
+}
+nav li{
+    
+    display: inline-block;
+    border: 1px solid red;
+    padding: 10px 10px 5px 10px;
+    margin-right: 5px;
+}
+
+head{
+    
+    padding: 10px;
+    
+}
+ativo{
+    border: bottom 1px;
+}
+    
+   
+
+nav li:hover{
+    color:#D0AA1B;
+    border-bottom:#D0491B;
+        
+}
+#vingadores{
+    
+    width: 100%;
+    height: 100vh;
+    
+}
+footer{
+    background:#D0491B;
+    color: #FFF;
+    padding: 10px;
+    text-align: center;
+     }
+h1{
+    color: darkorange;
+}
+
+.container{
+
+    font-size: 30px;
+    height: 100vh;
+    text-align: center;
+    border: 1px dotted red;
+    padding: 5px 0;
+    width: 900px;
+    margin: 0 auto 0 auto;
+
+} 
+
+p{
+    color:aliceblue;
+}
+
