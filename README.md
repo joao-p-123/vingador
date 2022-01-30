@@ -5,11 +5,13 @@ site
 <head>
     <meta charset="utf-8">
     <title>os vingadores</title>
-    
-    <link rel="stylesheet" href="../vingadores/css/estilo.css" >
+
+    <link rel="stylesheet" href="../vingadores/css/estilo.css">
 </head>
 
-    <body>
+	
+
+  <body>
 
 
         <nav>
